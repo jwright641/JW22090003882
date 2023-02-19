@@ -1,0 +1,18 @@
+
+body {
+    background-color: #AAABBC;
+    color: #373F47;
+    font-family: "Roboto";
+    
+  }
+  .bg-primary {
+    background-color: #28a745 !important;
+  }
+  .btn-primary {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    color: #28a745;
+  }
+
