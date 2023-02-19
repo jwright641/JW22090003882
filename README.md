@@ -1,11 +1,13 @@
-<html>
-  
 
-  <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jwright641/JW22090003882/blob/main/profile%20picture.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/jwright641/JW22090003882/blob/main/profile%20picture.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/jwright641/JW22090003882/blob/main/profile%20picture.jpg">
+ <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jwright641/JW22090003882/blob/main/profile%20picture.jpg" width="200">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/jwright641/JW22090003882/blob/main/profile%20picture.jpg" width="200">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/jwright641/JW22090003882/blob/main/profile%20picture.jpg" width="200">
 </picture>
+
+
+## About me
+I'm Jamie Wright, a software engineering who has recently completed the HyperionDev Software Engineering Bootcamp.  
   <head>
     <title>Jamie Wright - Software Developer Portfolio</title>
     <link rel="stylesheet" href="https://primer.github.io/css/global.css">
