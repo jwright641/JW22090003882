@@ -8,6 +8,17 @@
 
 ## About me
 I'm Jamie Wright, a software engineering who has recently completed the HyperionDev Software Engineering Bootcamp.  
+
+<details>
+ <summary>My top langauges</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2|JavasScript|
+|     3| SQL       |
+ 
+ </details>
   <head>
     <title>Jamie Wright - Software Developer Portfolio</title>
     <link rel="stylesheet" href="https://primer.github.io/css/global.css">
