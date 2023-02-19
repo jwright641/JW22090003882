@@ -2,8 +2,8 @@
   
 
   <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jwright641/JW22090003882/blob/main/profile%20picture.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/jwright641/JW22090003882/blob/main/profile%20picture.jpg">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/jwright641/JW22090003882/blob/main/profile%20picture.jpg">
 </picture>
   <head>
