@@ -1,4 +1,11 @@
 <html>
+  
+
+  <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://github.com/jwright641/JW22090003882/blob/main/profile%20picture.jpg)">
+</picture>
   <head>
     <title>Jamie Wright - Software Developer Portfolio</title>
     <link rel="stylesheet" href="https://primer.github.io/css/global.css">
